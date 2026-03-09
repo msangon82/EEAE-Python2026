@@ -5,5 +5,3 @@
 # - Frenar, que reducirá la velocidad el valor de aceleración.
 # - Mostrar datos, que devolverá que el piloto X va a velocidad Y
 # Añade manejo de excepciones para evitar pasar de las velocidades máximas.
-
-print(print("Hola mundo"))
