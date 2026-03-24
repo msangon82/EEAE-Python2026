@@ -1,3 +1,8 @@
+import tkinter as tk
+from tkinter import messagebox
+# Aquí importamos la clase de nuestra calculadora
+from MiClaseCalculadora import Calculadora
+
 class CalculadoraGUI:
     def __init__(self):
         self.root = tk.Tk()
